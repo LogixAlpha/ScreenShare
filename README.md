@@ -1,4 +1,4 @@
 # ScreenShare
 <br>
 
-**Screensharing Android Screen on Linux.**
+**Screensharing Android Screen on Linux using "Scrcpy"**
