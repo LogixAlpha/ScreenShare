@@ -3,7 +3,7 @@ from colorama import Fore , Back , init , Style
 #import keyboard
 #import os
 # LINUX ONLY 
-# UNTESTED
+
 init(autoreset=True)
 #if os.geteuid() == 0 and "SUDO_USER" in os.environ:
 print(f"Launched via sudo by user: {os.environ['SUDO_USER']}")
