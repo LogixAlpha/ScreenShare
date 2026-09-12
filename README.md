@@ -5,7 +5,7 @@
 
 <hr>
 
-***I prefer downloading as .zip file then download again sudo.sh and launch it from any directory.***
+***I prefer downloading as .zip file then launch the script!***
 
 <hr>
 
